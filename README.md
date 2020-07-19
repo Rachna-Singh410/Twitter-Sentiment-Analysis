@@ -5,17 +5,17 @@ In present time we all are always active in social media, here I choose twitter 
 
 Some python libraries
 
----
+'''
 numpy
 pandas
 sklearn etc.
----
+'''
 
 ### Installing
 
----
+'''
 pip install Library_name
----
+'''
 
 
 I collected four types of emotions data set i.e. Fun, Happy, Sad, Angry from different-different Google sites. 
