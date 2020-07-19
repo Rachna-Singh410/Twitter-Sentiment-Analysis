@@ -1,4 +1,4 @@
-# Twitter-Sentimant-Analysis
+# Twitter-Sentiment-Analysis
 In present time we all are always active in social media, here I choose twitter to find the public sentiment. The reason is that the amount of relevant data is much larger for twitter, as compared to another social media sites. 
 
 ### Prerequisites
@@ -12,6 +12,7 @@ pandas
 sklearn etc.
 
 ---
+
 ### Installing
 
 ---
